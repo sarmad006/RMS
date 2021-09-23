@@ -6,8 +6,8 @@ This is a MERN app
 ->Express
 ->Node 
 ->Mongo db 
-# commands to start the project
-cd to the folder
-npm start
-mongod 
-nodemon index.js
+# Commands
+-> cd to the folder
+->npm start
+->mongod 
+->nodemon index.js
